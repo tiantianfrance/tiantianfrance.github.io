@@ -1,0 +1,47 @@
+.ctr {
+    text-align: center;
+}
+
+.tour-left {
+    text-align: left;
+}
+
+.face-container {
+    text-align: center;
+}
+
+#t-face {
+    border-radius: 180px;
+    width: 180px;
+    box-shadow: 0px 0px 1px 2px #83D3C9;
+}
+
+.featured {
+    text-shadow: 3px 3px #464646;
+    color: #83D3C9;
+    padding-top: 20px;
+}
+
+.lefta {
+    text-align: left;
+}
+
+.presta {
+    list-style: initial;
+}
+
+.block {
+    display: block;
+}
+
+.instagram {
+    border-radius: 30px !important;
+    border: 1px solid !important;
+}
+
+.instagram:hover {
+    background-color: #83D3C9 !important;
+    color: #E8EEF4 !important;
+    font-size: 1.75em !important;
+    border-radius: 50px !important;
+}
